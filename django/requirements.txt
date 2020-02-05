@@ -86,7 +86,7 @@ packaging==20.0
 padme==1.1.1
 pandas==0.24.2
 pandocfilters==1.4.2
-paramiko==1.16.0
+paramiko==2.0.9
 parso==0.5.2
 passlib==1.6.5
 pathtools==0.1.2
